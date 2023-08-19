@@ -1,0 +1,1 @@
+This program reads in a specified number of seconds and will return that as a human readable duration format (String), consisting of seconds, minutes, hours, days and years, as needed. Written for CODEWARS. First attempted 2023-06-XX.
